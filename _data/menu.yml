@@ -1,16 +1,21 @@
-- title: "About"
-  href: "/about/"
+- title: "Home"
+  href: "/"
 
-- title: "Blog"
-  href: "/blog/"
-
-- title: "CV"
-  href: "/cv/"
-
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "Research"
+  href: "/research/"
   subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+    - subtitle: "Katherine Jones, Lady Ranelagh (1615 - 1691)"
+      subhref: "/research/lady-katherine-ranelagh/"
+    - subtitle: "Early Modern Recipe Books"
+      subhref: "/research/early-modern-recipe-books/"
+    - subtitle: "Early Modern Science and Medicine"
+      subhref: "/research/early-modern-science-medicine/"
+
+- title: "Presentations"
+  href: "/presentations/"
+
+- title: "Teaching"
+  href: "/teaching/"
+
+- title: "Contact Me"
+  href: "/contact-me/"
